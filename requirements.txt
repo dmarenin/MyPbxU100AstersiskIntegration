@@ -13,5 +13,5 @@ requests==2.21.0
 setuptools==39.0.1
 six==1.13.0
 tftpy==0.8.0
-urllib3==1.24.3
+urllib3==1.26.5
 Werkzeug==0.16.0
