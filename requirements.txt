@@ -10,7 +10,7 @@ Jinja2==2.10.3
 MarkupSafe==1.1.1
 pip==10.0.1
 requests==2.21.0
-setuptools==39.0.1
+setuptools==65.5.1
 six==1.13.0
 tftpy==0.8.0
 urllib3==1.24.3
